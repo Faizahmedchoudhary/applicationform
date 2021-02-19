@@ -1,0 +1,41 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+form {
+    display: grid;  
+    justify-content: center; 
+    margin-top: 2vh;
+    width: 100vw;
+}
+
+form label{
+    padding-top: 2%;
+}
+#btn{
+    margin-top: 3vh;
+    width: 10vw;
+    text-align: center;
+    background-color: #fff;
+    color: black;
+}
+h2 {
+    text-align: center;
+    margin-top: 3vh;
+}
+
+input {
+    width: 35vw;
+    height: 5vh;
+}
+select {
+    height: 5vh;
+}
+
+
+
+
